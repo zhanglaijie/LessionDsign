@@ -1,0 +1,98 @@
+10
+
+dir
+0
+http://code.taobao.org/svn/J2B/v1/WebRoot/user/fckeditor/editor/filemanager/browser/default
+http://code.taobao.org/svn/J2B
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d6d6c62b-aadb-4ef8-890c-0b5d2f5acc48
+
+frmresourcetype.html
+file
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+frmfolders.html
+file
+
+
+
+add
+
+browser.html
+file
+
+
+
+add
+
+frmcreatefolder.html
+file
+
+
+
+add
+
+browser.css
+file
+
+
+
+add
+
+js
+dir
+
+
+
+add
+
+frmupload.html
+file
+
+
+
+add
+
+frmactualfolder.html
+file
+
+
+
+add
+
+frmresourceslist.html
+file
+
+
+
+add
+

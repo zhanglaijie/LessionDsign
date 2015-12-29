@@ -1,0 +1,84 @@
+10
+
+dir
+0
+http://code.taobao.org/svn/J2B/v1/.settings
+http://code.taobao.org/svn/J2B
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d6d6c62b-aadb-4ef8-890c-0b5d2f5acc48
+
+org.eclipse.jdt.core.prefs
+file
+
+
+
+add
+
+org.eclipse.wst.jsdt.ui.superType.name
+file
+
+
+
+add
+
+com.genuitec.eclipse.j2eedt.core.prefs
+file
+
+
+
+add
+
+org.eclipse.wst.jsdt.ui.superType.container
+file
+
+
+
+add
+
+org.eclipse.core.resources.prefs
+file
+
+
+
+add
+
+org.eclipse.wst.common.project.facet.core.xml
+file
+
+
+
+add
+
+.jsdtscope
+file
+
+
+
+add
+
+org.eclipse.wst.common.component
+file
+
+
+
+add
+

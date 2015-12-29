@@ -1,0 +1,119 @@
+10
+
+dir
+0
+http://code.taobao.org/svn/J2B/v1/WebRoot/user/fckeditor/editor/filemanager/connectors/cfm
+http://code.taobao.org/svn/J2B
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d6d6c62b-aadb-4ef8-890c-0b5d2f5acc48
+
+cf_upload.cfm
+file
+
+
+
+add
+
+ImageObject.cfc
+file
+
+
+
+add
+
+cf_io.cfm
+file
+
+
+
+add
+
+cf5_upload.cfm
+file
+
+
+
+add
+
+cf_connector.cfm
+file
+
+
+
+add
+
+cf_basexml.cfm
+file
+
+
+
+add
+
+upload.cfm
+file
+
+
+
+add
+
+cf_util.cfm
+file
+
+
+
+add
+
+config.cfm
+file
+
+
+
+add
+
+cf5_connector.cfm
+file
+
+
+
+add
+
+image.cfc
+file
+
+
+
+add
+
+cf_commands.cfm
+file
+
+
+
+add
+
+connector.cfm
+file
+
+
+
+add
+
